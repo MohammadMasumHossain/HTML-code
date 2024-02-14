@@ -1,0 +1,16 @@
+table,
+th tr,
+td {
+    border: 1px solid black
+}
+
+th,
+td {
+    text-align: left;
+    padding: 8px;
+}
+
+
+tr:hover {
+    background-color: red;
+}
